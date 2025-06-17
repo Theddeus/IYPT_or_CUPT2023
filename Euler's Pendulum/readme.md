@@ -15,3 +15,4 @@ The script will ask for parameters such as the total simulation time,
 pendulum length and initial velocity. Once finished it creates an Excel
 file and a PNG plot with the calculated trajectory. You can also import
 `numerical.py` in your own code and call `simulation()` directly.
+
